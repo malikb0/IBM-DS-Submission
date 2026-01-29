@@ -1,0 +1,35 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyter = "*"
+pandas = "*"
+numpy = "*"
+beautifulsoup4 = "*"
+lxml = "*"
+html5lib = "*"
+yfinance = "*"
+matplotlib = "*"
+requests = "*"
+plotly = "*"
+nbformat = "*"
+seaborn = "*"
+pyodide-py = "*"
+scikit-learn = "*"
+openpyxl = "*"
+dash = "*"
+httpx = "*"
+folium = "*"
+js = "*"
+more-itertools = "*"
+jupysql = "*"
+prettytable = "*"
+wget = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
+python_full_version = "3.12.3"
